@@ -1,2 +1,2 @@
-# Python_basico
-Repositório com exemplos do curso de "Programação em Python - Nível Básico"
+# Programação em Python
+Repositório com exemplos e projetos utilizando a linguagem de Programação em Python - Nível Básico
