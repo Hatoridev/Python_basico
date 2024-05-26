@@ -77,3 +77,10 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Clone the repository and navigate to the cloned directory.
    
    - Run the Python files as mentioned about
+   - 
+## Language
+
+ <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+</div>
+
