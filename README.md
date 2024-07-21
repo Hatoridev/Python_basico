@@ -10,7 +10,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    
      
     ```bash
-   apt update && apt upgrade
+    apt update && apt upgrade
     ```
      
    
@@ -26,7 +26,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    
      
     ```bash
-   git clone https://github.com/Hatoridev/Python_basico.git
+    git clone https://github.com/Hatoridev/Python_basico.git
     ```
      
    
