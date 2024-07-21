@@ -9,7 +9,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Update and upgrade Termux:
    
      
-    ```
+    ```bash
    apt update && apt upgrade
     ```
      
@@ -17,7 +17,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Install Python:
    
      
-     ```
+     ```bash
      pkg install python
      ```
      
@@ -25,7 +25,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Clone the repository:
    
      
-    ```
+    ```bash
    git clone https://github.com/Hatoridev/Python_basico.git
     ```
      
@@ -33,18 +33,18 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Navigate to the cloned directory:
    
      
-     ```
+     ```bash
      cd Python_basico
      ```
      
    
-   ```
-   - Run the Python files:
-   ```
    
-     
+   - Run the Python files:
+
+   
+     ```bash
      python filename.py
-     
+     ```
    
      (Replace "filename.py" with the name of the file you want to execute)
 
@@ -61,7 +61,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Update the system:
    
      
-     ```
+     ```bash
      sudo apt update && sudo apt upgrade
      ```
     
@@ -69,7 +69,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Install Git and Python:
    
      
-     ```
+     ```bash
      sudo apt install git python
      ```
      
@@ -77,7 +77,7 @@ Repository with examples and projects using the Python Programming Language - Ba
    - Clone the repository and navigate to the cloned directory.
    
    - Run the Python files as mentioned about
-   - 
+   
 ## Language
 
  <div align="left">
